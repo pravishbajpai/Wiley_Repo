@@ -4,3 +4,4 @@ My backlog
 1.3 As an administrator I want to generate report
 1.4 As an user I want every detail of previous transactions.
 1.5 As a programmer I want my code to be completely debugged.
+1.6 New
